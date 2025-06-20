@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: github-actions-issues-test
+  name: tdb-github-actions-issues-test
   description: Test component for GitHub Actions and Issues plugins
   annotations:
     github.com/project-slug: tboker/rh_dynamic_plugins
